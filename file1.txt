@@ -3,3 +3,7 @@ SARANYA
 SRAVANI
 HARIKA
 ANUSHA
+cat
+dog
+ant
+tiger
